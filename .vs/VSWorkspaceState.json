@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\router",
+    "\\frontend\\src\\views"
+  ],
+  "SelectedNode": "\\backend\\server.ts",
+  "PreviewInSolutionExplorer": false
+}

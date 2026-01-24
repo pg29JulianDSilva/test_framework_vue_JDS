@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\stores\\counter.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\stores\\counter.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\components\\LeaderboardSummary.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LeaderboardSummary.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\components\\CounterWidget.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\CounterWidget.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\router\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\router\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\views\\AboutPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\AboutPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\views\\LandingPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\LandingPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "counter.ts",
+              "DocumentMoniker": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\stores\\counter.ts",
+              "RelativeDocumentMoniker": "src\\stores\\counter.ts",
+              "ToolTip": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\stores\\counter.ts",
+              "RelativeToolTip": "src\\stores\\counter.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-16T19:44:40.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaderboardSummary.vue",
+              "DocumentMoniker": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\components\\LeaderboardSummary.vue",
+              "RelativeDocumentMoniker": "src\\components\\LeaderboardSummary.vue",
+              "ToolTip": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\components\\LeaderboardSummary.vue",
+              "RelativeToolTip": "src\\components\\LeaderboardSummary.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-01-16T19:43:08.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CounterWidget.vue",
+              "DocumentMoniker": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\components\\CounterWidget.vue",
+              "RelativeDocumentMoniker": "src\\components\\CounterWidget.vue",
+              "ToolTip": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\components\\CounterWidget.vue",
+              "RelativeToolTip": "src\\components\\CounterWidget.vue",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-01-16T19:42:56.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\router\\index.ts",
+              "RelativeDocumentMoniker": "src\\router\\index.ts",
+              "ToolTip": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\router\\index.ts",
+              "RelativeToolTip": "src\\router\\index.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-16T19:40:33.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\App.vue",
+              "RelativeDocumentMoniker": "src\\App.vue",
+              "ToolTip": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\App.vue",
+              "RelativeToolTip": "src\\App.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-01-16T19:38:53.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LandingPage.vue",
+              "DocumentMoniker": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\views\\LandingPage.vue",
+              "RelativeDocumentMoniker": "src\\views\\LandingPage.vue",
+              "ToolTip": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\views\\LandingPage.vue",
+              "RelativeToolTip": "src\\views\\LandingPage.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-01-16T19:38:23.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutPage.vue",
+              "DocumentMoniker": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\views\\AboutPage.vue",
+              "RelativeDocumentMoniker": "src\\views\\AboutPage.vue",
+              "ToolTip": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\frontend\\src\\views\\AboutPage.vue",
+              "RelativeToolTip": "src\\views\\AboutPage.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-01-16T19:37:57.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
