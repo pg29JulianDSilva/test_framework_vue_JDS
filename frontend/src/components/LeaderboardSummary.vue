@@ -4,15 +4,17 @@
         <table>
             <thead>
                 <tr>
+                    <th>Position</th>
                     <th>Player</th>
                     <th>Score</th>
                 </tr>
             </thead>
             <tbody>
                 <!--This is a for loop inside html, to develop an implementation using pseudo code with Vue-->
-                <tr v-for="(item, index) in leaderboardData" :key="index">
-                    <td>{{ item.player }}</td>
-                    <td>{{ item.score }}</td>
+                <tr v-for="(item, index) in leaderboardData">
+                    <td v-if=" item.placement <= 5" >{{ item.placement }}</td>
+                    <td v-if=" item.placement <= 5" >{{ item.player }}</td>
+                    <td v-if=" item.placement <= 5" >{{ item.score }}</td>
                 </tr>
             </tbody>
         </table>
@@ -42,8 +44,10 @@
 
             //specify with TypeScript
             const data = (await res.json()) as LeaderboardItem[]
+
             //this is to add the stuff in the data directly
             leaderboardData.value = data
+
         } catch (err: any) {
             errorMessage.value = err?.message ?? "Unknown";
         }
@@ -78,10 +82,14 @@
     table {
         border-collapse: collapse;
         margin: auto;
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 1em;
     }
 
-    th, td  {
+    th, td {
         border: 1px solid #ccc;
+        margin: 0.2em;
     }
 
     .error {

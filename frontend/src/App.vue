@@ -4,10 +4,12 @@
 
 <template>
     <div id="app">
-        <header>
+        <header id="Guide">
             <nav>
-                <router-link to="/">Home</router-link>
-                <router-link to="/about">About</router-link>
+                <router-link class="Links" to="/">Home</router-link>
+                <router-link class="Links" to="/about">About</router-link>
+                <router-link class="Links" to="/Leaderboard">Complete Leaderboard</router-link>
+                <router-link class="Links" to="/Contact">Contact</router-link>
             </nav>
         </header>
         <main>
@@ -18,5 +20,23 @@
 
 
 
-<style scoped></style>
+<style scoped>
+    #app{
+        background-color:palegreen;
+    }
+
+    #Guide{
+        margin:1em;
+    }
+
+    nav {
+        display:flex;
+        justify-content: space-evenly;
+    }
+
+    .Links{
+        font-weight:bold;
+    }
+
+</style>
 

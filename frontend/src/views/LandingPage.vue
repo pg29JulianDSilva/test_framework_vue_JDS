@@ -8,7 +8,7 @@
 
         <LeaderboardSummary />
 
-
+        <FooterDetails />
     </div>
 </template>
 
@@ -17,6 +17,7 @@
 <script setup lang="ts">
     import CounterWidget from "../components/CounterWidget.vue";
     import LeaderboardSummary from "../components/LeaderboardSummary.vue";
+    import FooterDetails from "../components/FooterDetails.vue";
 </script>
 
 

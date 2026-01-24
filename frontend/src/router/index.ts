@@ -1,10 +1,14 @@
 import { createRouter, createWebHistory, type RouteRecordRaw } from 'vue-router'
 import LandingPage from "../views/LandingPage.vue";
 import AboutPage from "../views/AboutPage.vue";
+import Leaderboard from "../views/Leaderboard.vue";
+import Contact from "../views/Contact.vue"
 
 const routes: RouteRecordRaw[] = [
     { path: "/", name: "Landing", component: LandingPage },
-    { path: "/about", name: "About", component: AboutPage }
+    { path: "/about", name: "About", component: AboutPage },
+    { path: "/Leaderboard", name: "Leaderboard", component: Leaderboard },
+    { path: "/Contact", name: "Contact", component: Contact }
 ];
 
 //This is to create the history of the webpage itself it

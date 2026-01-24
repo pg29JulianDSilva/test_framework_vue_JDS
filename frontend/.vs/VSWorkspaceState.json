@@ -9,6 +9,6 @@
     "\\src\\views",
     "\\src\\__tests__"
   ],
-  "SelectedNode": "\\src\\stores\\counter.ts",
+  "SelectedNode": "\\src\\router\\index.ts",
   "PreviewInSolutionExplorer": false
 }
