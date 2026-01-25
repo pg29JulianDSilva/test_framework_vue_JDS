@@ -1,9 +1,9 @@
 <template>
     <div class="Leaderboard-page">
         <h1>This the total ranking for this game</h1>
-        <p>Try to ebat your own record!</p>
+        <p>Try to beat your own record!</p>
         <p>VFS 2025</p>
-        <div class="leaderboard-summary">
+        <div>
             <h2>Leaderboard</h2>
             <table>
                 <thead>
@@ -73,6 +73,10 @@
         border-radius:50px;
     }
 
+    h1{
+        padding:1em;
+    }
+
     table {
         display: table;
         border-collapse: collapse;
@@ -84,6 +88,12 @@
         display: table-cell;
         vertical-align: inherit;
         text-align: center;
+    }
+
+    th {
+        font-size: 1.7em;
+        padding-left: 1em;
+        padding-right: 1em;
     }
 
     .error {

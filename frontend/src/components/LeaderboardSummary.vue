@@ -82,7 +82,6 @@
     table {
         border-collapse: collapse;
         margin: auto;
-        display: flex;
         justify-content: space-evenly;
         margin-bottom: 1em;
     }
@@ -90,6 +89,12 @@
     th, td {
         border: 1px solid #ccc;
         margin: 0.2em;
+    }
+
+    th{
+        font-size:1.7em;
+        padding-left:1em;
+        padding-right:1em;
     }
 
     .error {

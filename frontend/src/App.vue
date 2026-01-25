@@ -6,6 +6,7 @@
     <div id="app">
         <header id="Guide">
             <nav>
+                <!--Increase to connect with the web pages-->
                 <router-link class="Links" to="/">Home</router-link>
                 <router-link class="Links" to="/about">About</router-link>
                 <router-link class="Links" to="/Leaderboard">Complete Leaderboard</router-link>

@@ -1,4 +1,5 @@
 <template>
+    <!--A component for a cutsom footer that it can be changed if needed-->
     <footer class="footerDetails">
         <h4>More about the game</h4>
         <h5>What else do you want to know? Is a game about clicking.</h5>
@@ -6,9 +7,11 @@
     </footer>
 </template>
 
+<!--No Script needed-->
 <script setup lang="ts">
 </script>
 
+<!--Basic footer details-->
 <style scoped>
     .footerDetails {
         text-align: left;

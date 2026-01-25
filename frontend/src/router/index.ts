@@ -4,6 +4,8 @@ import AboutPage from "../views/AboutPage.vue";
 import Leaderboard from "../views/Leaderboard.vue";
 import Contact from "../views/Contact.vue"
 
+//The import and the routes where added for the new views
+
 const routes: RouteRecordRaw[] = [
     { path: "/", name: "Landing", component: LandingPage },
     { path: "/about", name: "About", component: AboutPage },

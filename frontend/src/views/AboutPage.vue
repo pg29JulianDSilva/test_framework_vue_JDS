@@ -5,11 +5,13 @@
         <p>VFS 2025</p>
         <!--Widegts ;)-->
 
+        <!--This are the new components-->
         <FooterDetails />
     </div>
 </template>
 
 <script setup lang="ts">
+    //Import for the components
     import FooterDetails from "../components/FooterDetails.vue";
 </script>
 
@@ -17,6 +19,11 @@
     .about-page {
         text-align: center;
         margin-top: 10px;
-        background-color: red;
+        background-image: linear-gradient(to bottom, cornflowerblue, lightblue);
+        border-radius: 50px;
+    }
+
+    h1 {
+        padding: 1em;
     }
 </style> 

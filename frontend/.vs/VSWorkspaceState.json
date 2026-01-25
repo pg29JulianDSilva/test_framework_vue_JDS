@@ -3,12 +3,13 @@
     "",
     "\\public",
     "\\src",
+    "\\src\\assets",
     "\\src\\components",
     "\\src\\router",
     "\\src\\stores",
     "\\src\\views",
     "\\src\\__tests__"
   ],
-  "SelectedNode": "\\src\\router\\index.ts",
+  "SelectedNode": "\\src\\components\\ContactImputWidget.vue",
   "PreviewInSolutionExplorer": false
 }
