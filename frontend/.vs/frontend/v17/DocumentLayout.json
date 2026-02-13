@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardSummary.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LeaderboardSummary.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\ContactImputWidget.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ContactImputWidget.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\Contact.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardSummary.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LeaderboardSummary.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,11 +62,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\vite.config.ts",
+              "RelativeDocumentMoniker": "vite.config.ts",
+              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\vite.config.ts",
+              "RelativeToolTip": "vite.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-13T18:59:36.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ContactImputWidget.vue",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\ContactImputWidget.vue",
               "RelativeDocumentMoniker": "src\\components\\ContactImputWidget.vue",
@@ -75,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Contact.vue",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\Contact.vue",
               "RelativeDocumentMoniker": "src\\views\\Contact.vue",
@@ -83,12 +104,11 @@
               "RelativeToolTip": "src\\views\\Contact.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-24T03:59:29.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T03:59:29.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PopUpAdSpace.vue",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\PopUpAdSpace.vue",
               "RelativeDocumentMoniker": "src\\components\\PopUpAdSpace.vue",
@@ -96,12 +116,11 @@
               "RelativeToolTip": "src\\components\\PopUpAdSpace.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-25T01:11:08.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T01:11:08.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FooterDetails.vue",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\FooterDetails.vue",
               "RelativeDocumentMoniker": "src\\components\\FooterDetails.vue",
@@ -109,12 +128,11 @@
               "RelativeToolTip": "src\\components\\FooterDetails.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-24T07:14:24.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T07:14:24.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "index.ts",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\router\\index.ts",
               "RelativeDocumentMoniker": "src\\router\\index.ts",
@@ -122,12 +140,11 @@
               "RelativeToolTip": "src\\router\\index.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-01-16T19:40:33.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T19:40:33.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "App.vue",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\App.vue",
               "RelativeDocumentMoniker": "src\\App.vue",
@@ -135,25 +152,24 @@
               "RelativeToolTip": "src\\App.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-16T19:38:53.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T19:38:53.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "LeaderboardSummary.vue",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardSummary.vue",
               "RelativeDocumentMoniker": "src\\components\\LeaderboardSummary.vue",
               "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardSummary.vue",
               "RelativeToolTip": "src\\components\\LeaderboardSummary.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2026-01-16T19:43:08.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -161,12 +177,11 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-23T17:10:14.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-23T17:10:14.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "main.ts",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\main.ts",
               "RelativeDocumentMoniker": "src\\main.ts",
@@ -174,12 +189,11 @@
               "RelativeToolTip": "src\\main.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-01-23T17:07:42.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-23T17:07:42.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CounterWidget.vue",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\CounterWidget.vue",
               "RelativeDocumentMoniker": "src\\components\\CounterWidget.vue",
@@ -187,12 +201,11 @@
               "RelativeToolTip": "src\\components\\CounterWidget.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-16T19:42:56.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T19:42:56.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Leaderboard.vue",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\Leaderboard.vue",
               "RelativeDocumentMoniker": "src\\views\\Leaderboard.vue",
@@ -200,12 +213,11 @@
               "RelativeToolTip": "src\\views\\Leaderboard.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-24T03:59:15.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T03:59:15.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AboutPage.vue",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\AboutPage.vue",
               "RelativeDocumentMoniker": "src\\views\\AboutPage.vue",
@@ -213,8 +225,7 @@
               "RelativeToolTip": "src\\views\\AboutPage.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-16T19:37:57.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T19:37:57.574Z"
             }
           ]
         }
