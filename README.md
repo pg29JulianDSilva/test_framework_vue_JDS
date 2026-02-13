@@ -13,15 +13,15 @@
 <li>Pop up Widget</li>
 
 <h3>Still missing</h3>
-<li>Fully make functional the API for the Leaderboard (It gets the info, but it cannot be modified)</li>
+<li>Fully make funtional the API for the Leaderboard (It gets the info, but it cannot be modified)</li>
 <li>Apply message system for contact information</li>
 
 <h3>How to run [DEV]</h3>
 <ol type="1">
   <li>download and unzip the file</li>
   <li>open two consoles, one for frontend folder and one for backend folder</li>
-  <li>use npm install to get all the necessary libraries (and check if you need to install additional node.js and vita)</li>
-  <li>after installing, use npm run dev in both consoles. Then use the localhost from the frontend console to access the webpage</li>
+  <li>use npm install to get all the necesary libraries (and check if you need to install aditional node.js and vita)</li>
+  <li>after installing, use npm run dev in both consoles. Then use the localhost from the fronend console to access the webpage</li>
 </ol>
 
 It is recommended to use Visual Studio to do changes.
