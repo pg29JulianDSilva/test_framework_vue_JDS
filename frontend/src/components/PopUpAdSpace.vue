@@ -1,10 +1,11 @@
 <template>
         <!--This is just an image with a click link function-->
-        <img class="pop"  @click="sponsor()" src="C:\Users\Public\Repos\test_framework_vue_JDS\frontend\src\assets\pop.jpg" />
+        <img class="pop"  @click="sponsor()" src='../assets/pop.jpg'  />
 </template>
 
 <script setup lang="ts">
     //Function to open the source of the ad
+
     function sponsor() {
         window.open('https://www.wikihow.com/Get-Rid-of-Pop%E2%80%90Ups', '_blank');
     }
