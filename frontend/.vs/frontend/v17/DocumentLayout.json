@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LeaderboardComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardSummary.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LeaderboardSummary.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LeaderboardComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\Leaderboard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,31 +98,30 @@
               "RelativeToolTip": "src\\views\\Leaderboard.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-24T03:59:15.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T03:59:15.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LeaderboardSummary.vue",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardSummary.vue",
               "RelativeDocumentMoniker": "src\\components\\LeaderboardSummary.vue",
               "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardSummary.vue",
               "RelativeToolTip": "src\\components\\LeaderboardSummary.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2026-01-16T19:43:08.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LeaderboardComponent.vue",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardComponent.vue",
               "RelativeDocumentMoniker": "src\\components\\LeaderboardComponent.vue",
               "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardComponent.vue",
               "RelativeToolTip": "src\\components\\LeaderboardComponent.vue",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2026-02-14T18:40:36.45Z",
               "EditorCaption": ""
@@ -137,8 +136,7 @@
               "RelativeToolTip": "src\\components\\PopUpAdSpace.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-25T01:11:08.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T01:11:08.296Z"
             },
             {
               "$type": "Document",
@@ -150,8 +148,7 @@
               "RelativeToolTip": "src\\components\\CounterWidget.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-16T19:42:56.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T19:42:56.362Z"
             },
             {
               "$type": "Document",
@@ -163,8 +160,7 @@
               "RelativeToolTip": "src\\views\\AboutPage.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-16T19:37:57.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T19:37:57.574Z"
             },
             {
               "$type": "Document",
@@ -176,8 +172,7 @@
               "RelativeToolTip": "src\\views\\LandingPage.vue",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-02-14T18:48:34.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:48:34.595Z"
             },
             {
               "$type": "Document",
@@ -189,8 +184,7 @@
               "RelativeToolTip": "src\\components\\FooterDetails.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-24T07:14:24.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T07:14:24.707Z"
             },
             {
               "$type": "Document",
@@ -202,8 +196,7 @@
               "RelativeToolTip": "src\\App.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-16T19:38:53.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T19:38:53.817Z"
             },
             {
               "$type": "Document",
@@ -215,8 +208,7 @@
               "RelativeToolTip": "src\\main.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-01-23T17:07:42.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-23T17:07:42.178Z"
             },
             {
               "$type": "Document",
@@ -228,8 +220,7 @@
               "RelativeToolTip": "src\\__tests__\\App.spec.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-14T19:05:36.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T19:05:36.797Z"
             },
             {
               "$type": "Document",
@@ -241,8 +232,7 @@
               "RelativeToolTip": "src\\stores\\counter.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-14T19:05:25.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T19:05:25.566Z"
             },
             {
               "$type": "Document",
@@ -254,8 +244,7 @@
               "RelativeToolTip": "src\\router\\index.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-01-16T19:40:33.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T19:40:33.679Z"
             },
             {
               "$type": "Document",
@@ -267,8 +256,7 @@
               "RelativeToolTip": "src\\views\\Contact.vue",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-24T03:59:29.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T03:59:29.508Z"
             },
             {
               "$type": "Document",

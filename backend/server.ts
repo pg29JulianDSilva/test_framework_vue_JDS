@@ -1,14 +1,27 @@
 import express, { type Request, type Response } from "express";
 import cors from "cors";
+import mysql from "mysql2/promise";
+import { error } from "console";
+require("dotenv").config();
+
+//for the MySQL
+const pool = mysql.createPool({
+    host: process.env.DB_HOST ?? "localhost",
+    user: process.env.DB_USER,
+    password: process.env.DB_PASSWORD,
+    database: process.env.DB_NAME,
+    waitForConnections: true,
+    connectionLimit: 10
+});
 
 type LeaderboardItem = {
+    id: number;
     placement: number;
     player: string;
     score: number;
 };
 
 const app = express();
-const port = 3000;
 
 app.use(cors());
 app.use(express.json());
@@ -17,30 +30,28 @@ app.get("/api/ping", (req: Request, res: Response) => {
     res.json({ message: "OK" });
 });
 
-app.get("/api/leaderboard-summary", (req: Request, res: Response) => {
-    const summaryData: LeaderboardItem[] = [
-        { placement: 1 , player: "Spencer", score: 9999 },
-        { placement: 2 , player: "Vi", score: 3789 },
-        { placement: 3 , player: "Vini", score: 1478 },
-        { placement: 4 , player: "Kiran", score: 998 },
-        { placement: 5 , player: "Yeison", score: 789 },
-        { placement: 6 , player: "Diana", score: 582 },
-        { placement: 7 , player: "Julian R", score: 499 },
-        { placement: 8 , player: "Felipe", score: 455 },
-        { placement: 9 , player: "Ken", score: 454 },
-        { placement: 10 , player: "Tyler", score: 333 },
-        { placement: 11 , player: "Chris", score: 330 },
-        { placement: 12 , player: "Tobias", score: 315 },
-        { placement: 13 , player: "Evelyn", score: 298 },
-        { placement: 14 , player: "Nick", score: 280 },
-        { placement: 15 , player: "Dylan", score: 198 },
-        { placement: 16 , player: "Julian D Silva", score: 15 },
-        { placement: 17,  player: "Raf", score: -9999 },
-    ];
+app.get("/api/leaderboard", async (req: Request, res: Response) => {
 
-    res.json(summaryData);
+    try {
+        const db = await mysql.createConnection({
+            host: process.env.DB_HOST ?? "localhost",
+            user: process.env.DB_USER,
+            password: process.env.DB_PASSWORD,
+            database: process.env.DB_NAME,
+        });
+
+        const [rows] = await db.execute(
+            "SELECT player_id, player_users, player_position, player_score FROM lb ORDER BY player_position;"
+        );
+
+        console.log(rows);
+
+        let summaryData: LeaderboardItem[] = rows;
+
+        res.json(summaryData);
+    } catch (e: any) { res.status(400).json({error: e.message}) }
 });
 
-app.listen(port, () => {
-    console.log(`backend at localhost http://localhost:${port}`);
+app.listen(process.env.PORT, async () => {
+    console.log(`backend at localhost http://localhost:${process.env.PORT}`);
 });

@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\backend\\",
+  "WorkspaceRootPath": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\backend\\server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\backend\\server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\backend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\backend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\backend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\backend\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\backend\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T19:03:10.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\backend\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\backend\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T19:03:00.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\backend\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\backend\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANjSURBVDhPhZPLb1tFFIe/M9e\u002Bdu04sdPYoSnBDU1DAwFVqsJjgVDVBRSyqUTVsmEFSLBAYglCIvwDoCzYI3aILXvUTUtBKhJRiYqcpOShpM7DdhL7\u002Bj5mhoXtxElT5ZNGMzoz85tz5pwjtHlzakpNfPLVB7ON1EwQhf0d\u002B8nYWX9949OH331\u002Bt7laMorJSV555/pLV76c\u002Bd7ty89YeyBm2\u002BMoh\u002ByiXnbP5N93km4aEXEmV1fl3ZHLP8XisVteGKXW9nxM\u002B7QCRLqUAGnb9s0iYMxfduHf27VHc03n4\u002BlpZVcqXwsy4EURa3sBxkLWdbh\u002BIc9bw1mqvuZxIyAZU1wt5rg2cpp03KFU9VAKpLrl9kB2aPLibdV\u002B1nR7AdCbcHj7XD83xwpcGc4SGUt/Is7U8wPcHCvw6jN96E7cvjdhiG71DA1JS/AYBCEmipgSLhcyxB1hMB2nmEkSU4Lq/gprHcQqHQRPF\u002BxQboSMZJMMpRMUe08RUxDsu/YkJwrObdcRES4VehjpS7K6F7AX6qPH9jlRcHnHZ3m3ydXncpzrTTJf9fD1E1\u002B\u002Bz4mCe5Hmz/Vd3hjqpdd1WNzxjq3NDk8VDI2l3AiohxF3VmtsNEJKVY/lHZ9yI6TmR0evACDfWKv03fkHjjgvbDd97q/vEmpQAj1xh0BbAmPoc2P4xhBqSyquCDXUI90q/LUlzOJsKXXajB/xUFpOi6ARqoHB0xaNsOVr6pElsFDxDfXIICKtO10ldCCoFLrpYWtbUN1Eqpuo2iZS61ofsVNtD69OpzVaId9ZeFAplwfm/vi9b7dSiXXesNZijEE5gjGtvhXbSolSXcGJYC2lVMGOy/Qv/8SWGwvXlheXzm\u002BvrX0rIhkAYy0Xzg7y3uuX\u002BHt\u002BiYFchmYzIp/NsOt5/PzbPZyOqCistaVUwY6r6RsvRj9\u002B8dGvD\u002BdXaqIOGkopxejQIOPFM5xKukwUn\u002BVsPsdAXw\u002BvjZ8nnUzQdvYQCsB145LLpg8lKO44KCXcm1sklXC5X3rE6sY2/z3eZKW8TT6bwRyjKACJwrCM3vjsw5TxZ7Cmt7UjpNw42lpcx0FbAwjWGhylCMIIP4xame4K2QHQ9R1UvbaVK45eFKXGaJWhRNqINkaCSEukjUS6NYeRFmOtdIOlEk/LD/8Dr5iPPQk0v88AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-02-16T19:01:42.389Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "server.ts",
-              "DocumentMoniker": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\backend\\server.ts",
+              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\backend\\server.ts",
               "RelativeDocumentMoniker": "server.ts",
-              "ToolTip": "C:\\Users\\pg29julians\\Documents\\JSFrameworks\\A1App\\backend\\server.ts",
+              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\backend\\server.ts",
               "RelativeToolTip": "server.ts",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-01-23T17:38:39.516Z",
               "EditorCaption": ""

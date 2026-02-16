@@ -16,9 +16,9 @@
                 <tbody>
                     <!--This is a for loop inside html, to develop an implementation using pseudo code with Vue-->
                     <tr v-for="(item, index) in leaderboardData">
-                        <td>{{ item.placement }}</td>
-                        <td>{{ item.player }}</td>
-                        <td>{{ item.score }}</td>
+                        <td>{{ item.player_position }}</td>
+                        <td>{{ item.player_users }}</td>
+                        <td>{{ item.player_score }}</td>
                     </tr>
                 </tbody>
             </table>
@@ -43,7 +43,7 @@
 
     async function fetchleaderboardData() {
         try {
-            const res = await fetch("http://localhost:3000/api/leaderboard-summary")
+            const res = await fetch("http://localhost:3000/api/leaderboard")
 
             if (!res.ok) throw new Error(`Server error ${res.status}`)
 
