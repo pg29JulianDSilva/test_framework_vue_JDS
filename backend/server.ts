@@ -2,6 +2,18 @@ import express, { type Request, type Response } from "express";
 import cors from "cors";
 import mysql from "mysql2/promise";
 import { error } from "console";
+import mongoose from "mongoose";
+
+async function connectDB(uri: string) {
+    await mongoose.connect(uri);
+    console.log("Databse connected");
+}
+
+async function disconnectDB() {
+    await mongoose.disconnect();
+    console.log("Databse disconnected");
+}
+
 require("dotenv").config();
 
 //for the MySQL
