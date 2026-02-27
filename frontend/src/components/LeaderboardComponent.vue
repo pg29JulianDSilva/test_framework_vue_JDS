@@ -5,6 +5,7 @@
         <p>VFS 2025</p>
         <div>
             <h2>Leaderboard</h2>
+
             <table>
                 <thead>
                     <tr>
@@ -12,25 +13,28 @@
                         <th>Player</th>
                         <th>Score</th>
                     </tr>
+
                 </thead>
+
                 <tbody>
                     <!--This is a for loop inside html, to develop an implementation using pseudo code with Vue-->
-                    <tr v-for="(item, index) in leaderboardData">
-                        <td>{{ item.player_position }}</td>
-                        <td>{{ item.player_users }}</td>
+
+                    <tr v-for="(item, index) in lbstore.leaderboardData">
+                        <td>{{ item.player_placement }}</td>
+                        <td>{{ item.player_user }}</td>
                         <td>{{ item.player_score }}</td>
                     </tr>
                 </tbody>
             </table>
             <!--Conditional in html with Vue-->
-            <p v-if="errorMessage" class="error">{{ errorMessage }}</p>
+            <p v-if="lbstore.errorMessage" class="error">{{ errorMessage }}</p>
         </div>
     </div>
 </template>
 
 <script setup lang="ts">
     //onMounted is like the stuff we already imported on the main widget
-    import { onMounted, ref } from "vue";
+    /*import { onMounted, ref } from "vue";
 
     //More typescript
     type LeaderboardItem = {
@@ -59,7 +63,14 @@
 
     onMounted(() => {
         fetchleaderboardData();
-    })
+    })*/
+
+    import { leaderboardDataStore } from "../stores/leaderboard";
+
+    const lbstore = leaderboardDataStore();
+
+    lbstore.onMounted
+
 </script>
 
 <style scoped>

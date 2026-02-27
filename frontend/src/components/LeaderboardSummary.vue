@@ -11,20 +11,20 @@
             </thead>
             <tbody>
                 <!--This is a for loop inside html, to develop an implementation using pseudo code with Vue-->
-                <tr v-for="(item, index) in leaderboardData">
-                    <td v-if=" item.player_position <= 5" >{{ item.player_position }}</td>
-                    <td v-if=" item.player_position <= 5" >{{ item.player_users }}</td>
-                    <td v-if=" item.player_position <= 5" >{{ item.player_score }}</td>
+                <tr v-for="(item, index) in lbstore.leaderboardData">
+                    <td v-if=" item.player_placement <= 5" >{{ item.player_placement }}</td>
+                    <td v-if=" item.player_placement <= 5" >{{ item.player_user }}</td>
+                    <td v-if=" item.player_placement <= 5" >{{ item.player_score }}</td>
                 </tr>
             </tbody>
         </table>
         <!--Conditional in html with Vue-->
-        <p v-if="errorMessage" class="error">{{ errorMessage }}</p>
+        <p v-if="lbstore.errorMessage" class="error">{{ errorMessage }}</p>
     </div>
 </template>
 
 <script setup lang="ts">
-    //onMounted is like the stuff we already imported on the main widget
+    /*//onMounted is like the stuff we already imported on the main widget
     import { onMounted, ref } from "vue";
 
     //More typescript
@@ -58,7 +58,7 @@
         fetchleaderboardData();
     })
 
-    /*
+    
     const fetchLeaderBoardData(async () => {
         .fetch(http://localhost:3000/api/leaderboard)
             .then(response => response.json());
@@ -69,7 +69,11 @@
     });*/
 
 
+    import { leaderboardDataStore } from "../stores/leaderboard";
 
+    const lbstore = leaderboardDataStore();
+
+    lbstore.onMounted
 
 
 </script>

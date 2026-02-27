@@ -53,7 +53,7 @@ app.get("/api/leaderboard", async (req: Request, res: Response) => {
         });
 
         const [rows] = await db.execute(
-            "SELECT player_id, player_users, player_position, player_score FROM lb ORDER BY player_position;"
+            "SELECT player_id, player_placement, player_user, player_score FROM lb ORDER BY player_placement;"
         );
 
         console.log(rows);

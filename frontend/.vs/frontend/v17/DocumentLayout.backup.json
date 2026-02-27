@@ -1,77 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\",
+  "WorkspaceRootPath": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardSummary.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardSummary.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LeaderboardSummary.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LeaderboardComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\Leaderboard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\Leaderboard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\Leaderboard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\LandingPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\LandingPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\stores\\leaderboard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\stores\\leaderboard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\AboutPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\AboutPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\PopUpAdSpace.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\PopUpAdSpace.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\CounterWidget.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\CounterWidget.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\FooterDetails.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\FooterDetails.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\__tests__\\App.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\__tests__\\App.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\stores\\counter.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\stores\\counter.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\stores\\counter.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\router\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\router\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\CounterWidget.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\CounterWidget.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\Contact.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\Contact.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\vitest.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vitest.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\ContactImputWidget.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\ContactImputWidget.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ContactImputWidget.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\LogInPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\LogInPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\LandingPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\LandingPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\LogInComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LogInComponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\router\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\router\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\AboutPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\AboutPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\PopUpAdSpace.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\PopUpAdSpace.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\Contact.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\Contact.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\FooterDetails.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\FooterDetails.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\vitest.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vitest.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -82,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,97 +98,201 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Leaderboard.vue",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\Leaderboard.vue",
-              "RelativeDocumentMoniker": "src\\views\\Leaderboard.vue",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\Leaderboard.vue",
-              "RelativeToolTip": "src\\views\\Leaderboard.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-24T03:59:15.555Z"
+              "DocumentIndex": 3,
+              "Title": "leaderboard.ts",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\stores\\leaderboard.ts",
+              "RelativeDocumentMoniker": "src\\stores\\leaderboard.ts",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\stores\\leaderboard.ts",
+              "RelativeToolTip": "src\\stores\\leaderboard.ts",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-27T00:02:38.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LeaderboardSummary.vue",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardSummary.vue",
-              "RelativeDocumentMoniker": "src\\components\\LeaderboardSummary.vue",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardSummary.vue",
-              "RelativeToolTip": "src\\components\\LeaderboardSummary.vue",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowBAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-16T19:43:08.916Z",
+              "DocumentIndex": 4,
+              "Title": "counter.ts",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\stores\\counter.ts",
+              "RelativeDocumentMoniker": "src\\stores\\counter.ts",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\stores\\counter.ts",
+              "RelativeToolTip": "src\\stores\\counter.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-14T19:05:25.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LeaderboardComponent.vue",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardComponent.vue",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardComponent.vue",
               "RelativeDocumentMoniker": "src\\components\\LeaderboardComponent.vue",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardComponent.vue",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardComponent.vue",
               "RelativeToolTip": "src\\components\\LeaderboardComponent.vue",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2026-02-14T18:40:36.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Leaderboard.vue",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\Leaderboard.vue",
+              "RelativeDocumentMoniker": "src\\views\\Leaderboard.vue",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\Leaderboard.vue",
+              "RelativeToolTip": "src\\views\\Leaderboard.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-01-24T03:59:15.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaderboardSummary.vue",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardSummary.vue",
+              "RelativeDocumentMoniker": "src\\components\\LeaderboardSummary.vue",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\LeaderboardSummary.vue",
+              "RelativeToolTip": "src\\components\\LeaderboardSummary.vue",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-01-16T19:43:08.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "CounterWidget.vue",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\CounterWidget.vue",
+              "RelativeDocumentMoniker": "src\\components\\CounterWidget.vue",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\CounterWidget.vue",
+              "RelativeToolTip": "src\\components\\CounterWidget.vue",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-01-16T19:42:56.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogInPage.vue",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\LogInPage.vue",
+              "RelativeDocumentMoniker": "src\\views\\LogInPage.vue",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\LogInPage.vue",
+              "RelativeToolTip": "src\\views\\LogInPage.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-02-17T01:07:00.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\router\\index.ts",
+              "RelativeDocumentMoniker": "src\\router\\index.ts",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\router\\index.ts",
+              "RelativeToolTip": "src\\router\\index.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-16T19:40:33.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\App.vue",
+              "RelativeDocumentMoniker": "src\\App.vue",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\App.vue",
+              "RelativeToolTip": "src\\App.vue",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-01-16T19:38:53.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogInComponent.vue",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\LogInComponent.vue",
+              "RelativeDocumentMoniker": "src\\components\\LogInComponent.vue",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\LogInComponent.vue",
+              "RelativeToolTip": "src\\components\\LogInComponent.vue",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAE0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-02-16T22:05:49.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactImputWidget.vue",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\ContactImputWidget.vue",
+              "RelativeDocumentMoniker": "src\\components\\ContactImputWidget.vue",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\ContactImputWidget.vue",
+              "RelativeToolTip": "src\\components\\ContactImputWidget.vue",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-01-25T01:46:26.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "PopUpAdSpace.vue",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\PopUpAdSpace.vue",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\PopUpAdSpace.vue",
               "RelativeDocumentMoniker": "src\\components\\PopUpAdSpace.vue",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\PopUpAdSpace.vue",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\PopUpAdSpace.vue",
               "RelativeToolTip": "src\\components\\PopUpAdSpace.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2026-01-25T01:11:08.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CounterWidget.vue",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\CounterWidget.vue",
-              "RelativeDocumentMoniker": "src\\components\\CounterWidget.vue",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\CounterWidget.vue",
-              "RelativeToolTip": "src\\components\\CounterWidget.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Contact.vue",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\Contact.vue",
+              "RelativeDocumentMoniker": "src\\views\\Contact.vue",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\Contact.vue",
+              "RelativeToolTip": "src\\views\\Contact.vue",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-16T19:42:56.362Z"
+              "WhenOpened": "2026-01-24T03:59:29.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "AboutPage.vue",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\AboutPage.vue",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\AboutPage.vue",
               "RelativeDocumentMoniker": "src\\views\\AboutPage.vue",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\AboutPage.vue",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\AboutPage.vue",
               "RelativeToolTip": "src\\views\\AboutPage.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2026-01-16T19:37:57.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "LandingPage.vue",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\LandingPage.vue",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\LandingPage.vue",
               "RelativeDocumentMoniker": "src\\views\\LandingPage.vue",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\LandingPage.vue",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\views\\LandingPage.vue",
               "RelativeToolTip": "src\\views\\LandingPage.vue",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-02-14T18:48:34.595Z"
+              "WhenOpened": "2026-02-14T18:48:34.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "FooterDetails.vue",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\FooterDetails.vue",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\FooterDetails.vue",
               "RelativeDocumentMoniker": "src\\components\\FooterDetails.vue",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\FooterDetails.vue",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\components\\FooterDetails.vue",
               "RelativeToolTip": "src\\components\\FooterDetails.vue",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
@@ -188,23 +300,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.vue",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\App.vue",
-              "RelativeDocumentMoniker": "src\\App.vue",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\App.vue",
-              "RelativeToolTip": "src\\App.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-16T19:38:53.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "main.ts",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\main.ts",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\main.ts",
               "RelativeDocumentMoniker": "src\\main.ts",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\main.ts",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\src\\main.ts",
               "RelativeToolTip": "src\\main.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -212,71 +312,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "App.spec.ts",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\__tests__\\App.spec.ts",
-              "RelativeDocumentMoniker": "src\\__tests__\\App.spec.ts",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\__tests__\\App.spec.ts",
-              "RelativeToolTip": "src\\__tests__\\App.spec.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-14T19:05:36.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "counter.ts",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\stores\\counter.ts",
-              "RelativeDocumentMoniker": "src\\stores\\counter.ts",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\stores\\counter.ts",
-              "RelativeToolTip": "src\\stores\\counter.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-14T19:05:25.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "index.ts",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\router\\index.ts",
-              "RelativeDocumentMoniker": "src\\router\\index.ts",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\router\\index.ts",
-              "RelativeToolTip": "src\\router\\index.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-01-16T19:40:33.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Contact.vue",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\Contact.vue",
-              "RelativeDocumentMoniker": "src\\views\\Contact.vue",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\views\\Contact.vue",
-              "RelativeToolTip": "src\\views\\Contact.vue",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-24T03:59:29.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ContactImputWidget.vue",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\ContactImputWidget.vue",
-              "RelativeDocumentMoniker": "src\\components\\ContactImputWidget.vue",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\src\\components\\ContactImputWidget.vue",
-              "RelativeToolTip": "src\\components\\ContactImputWidget.vue",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2026-01-25T01:46:26.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "vite.config.ts",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\vite.config.ts",
               "RelativeDocumentMoniker": "vite.config.ts",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\vite.config.ts",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\vite.config.ts",
               "RelativeToolTip": "vite.config.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -284,11 +324,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "vitest.config.ts",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\vitest.config.ts",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\vitest.config.ts",
               "RelativeDocumentMoniker": "vitest.config.ts",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\vitest.config.ts",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\vitest.config.ts",
               "RelativeToolTip": "vitest.config.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -296,11 +336,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\index.html",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\index.html",
               "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Users\\Public\\Repos\\test_framework_vue_JDS\\frontend\\index.html",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\Carpeta Temporal Trabajos VFS sin Terminar\\Final Frameworks\\test_framework_vue_JDS\\frontend\\index.html",
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",

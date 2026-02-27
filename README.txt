@@ -30,6 +30,14 @@
 
 It is recommended to use Visual Studio to do changes.
 
+elements for the .env file (This is in the VFS readme only)
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=spencer
+DB_NAME=leaderboard
+MONGODB_URI=mongodb+srv://spencer:spencer@jds.ji557by.mongodb.net/?appName=JDS
+PORT=3000
+
 
 Link:
 https://github.com/pg29JulianDSilva/test_framework_vue_JDS
