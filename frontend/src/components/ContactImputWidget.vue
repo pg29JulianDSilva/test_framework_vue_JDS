@@ -16,24 +16,30 @@
 <!--Script reference to change the value-->
 <script setup lang="ts">
 
-    import { ref } from "vue";
+    import { ref, onMounted } from "vue";
     import { userdatasendStore } from "../stores/currentuser";
 
     const write = ref('');
     const name = ref('');
     const email = ref('');
 
+    const OutMessage = userdatasendStore();
+
     function sended() {
 
         //TODO connect with mongoose
+        OutMessage.user = name.value as string;
+        OutMessage.mail = email.value as string;
+        OutMessage.reason = write.value as string;
 
-        userdatasendStore.onMounted(name.value, email.value, write.value);
+        OutMessage.sendMessage();
 
         alert("Thank you, will answer you as soon as we want to!");
         write.value = '';
         name.value = '';
         email.value = '';
     }
+
 </script>
 
 <!--Details for the style-->

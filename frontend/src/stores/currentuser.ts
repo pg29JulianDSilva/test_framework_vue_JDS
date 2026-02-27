@@ -8,6 +8,9 @@ export const userdatasendStore = defineStore('OutMessage', () => {
 
     const errorMessage = ref("");
 
+    const user = ref("");
+    const mail = ref("");
+    const reason = ref("");
 
     async function api(method: string, path: string, body?: any) {
         const url = `${BASE}${path}`;
@@ -21,40 +24,37 @@ export const userdatasendStore = defineStore('OutMessage', () => {
         const data = await res.json();
 
         if (!res.ok) {
-            errorMessage.value = `ERRORY ${res.status}`;
+            //errorMessage.value = `ERRORY ${res.status}`;
             throw new Error(`ERRORY ${res.status}`);
         }
 
         return data;
     }
 
-    async function sendMessage( user: string, mail: string, reason: string) {
+    async function sendMessage() {
         try {
             console.log(await api("GET", "/"));
 
             const totalMessages = await api("GET", "/connect")
 
             const connect = await api("POST", "/connect", {
-                connectID: totalMessages.lenght,
-                name: user,
-                email: mail,
-                content: reason
+                connectID: totalMessages.length,
+                name: user.value,
+                email: mail.value,
+                content: reason.value
             });
 
-            console.log(connect);
+            //console.log(connect);
 
-            console.log(await api("GET", `/connect/${connect._id}`));
+           //console.log(await api("GET", `/connect/${connect._id}`));
         } catch (err: any) {
             errorMessage.value = err?.message ?? "Unknown";
         }
     }
-
-    onMounted((u: string, m: string, r: string) => {
-        sendMessage(u, m, r);
-    })
+ 
     
 
-    return { sendMessage, errorMessage }
+    return { sendMessage, errorMessage, user, mail, reason }
 })
 
 export const userInformation = defineStore('UserInfo', () => {

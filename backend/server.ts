@@ -78,4 +78,4 @@ app.listen(process.env.DB_PORT, async () => {
     console.log(`backend at localhost http://localhost:${process.env.DB_PORT}`);
 });
 
-//start();
+start();
