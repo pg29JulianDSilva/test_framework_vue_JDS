@@ -39,14 +39,15 @@ app.get("/api/ping", (req: Request, res: Response) => {
 app.get("/api/leaderboard", async (req: Request, res: Response) => {
 
     try {
-        const db = await mysql.createConnection({
+        /*const db = await mysql.createConnection(pool);
+            /*.createConnection({
             host: process.env.DB_HOST ?? "localhost",
             user: process.env.DB_USER,
             password: process.env.DB_PASSWORD,
             database: process.env.DB_NAME,
-        });
+        });*/
 
-        const [rows] = await db.execute(
+        const [rows] = await pool.execute(
             "SELECT player_id, player_placement, player_user, player_score FROM lb ORDER BY player_placement;"
         );
 
@@ -77,4 +78,4 @@ app.listen(process.env.DB_PORT, async () => {
     console.log(`backend at localhost http://localhost:${process.env.DB_PORT}`);
 });
 
-start();
+//start();

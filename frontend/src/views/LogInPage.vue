@@ -3,13 +3,15 @@
         <h1>Access Page</h1>
         <LogInComponent />
         <FooterDetails />
-    </div>
+        <userstatuscomponent />
+</div>
 </template>
 
 <script setup lang="ts">
     //Import for the components
     import FooterDetails from "../components/FooterDetails.vue";
     import LogInComponent from "../components/LogInComponent.vue";
+    import userstatuscomponent from "../components/userstatuscomponent.vue";
 </script>
 
 <style scoped>

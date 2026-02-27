@@ -7,7 +7,6 @@
     </footer>
 </template>
 
-<!--No Script needed-->
 <script setup lang="ts">
 </script>
 
