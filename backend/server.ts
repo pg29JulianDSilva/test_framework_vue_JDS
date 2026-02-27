@@ -2,19 +2,10 @@ import express, { type Request, type Response } from "express";
 import cors from "cors";
 import mysql from "mysql2/promise";
 import { error } from "console";
-import mongoose from "mongoose";
+import { connectDB } from "./db";
+import dotenv from "dotenv";
 
-async function connectDB(uri: string) {
-    await mongoose.connect(uri);
-    console.log("Databse connected");
-}
-
-async function disconnectDB() {
-    await mongoose.disconnect();
-    console.log("Databse disconnected");
-}
-
-require("dotenv").config();
+dotenv.config();
 
 //for the MySQL
 const pool = mysql.createPool({
@@ -64,6 +55,20 @@ app.get("/api/leaderboard", async (req: Request, res: Response) => {
     } catch (e: any) { res.status(400).json({error: e.message}) }
 });
 
-app.listen(process.env.PORT, async () => {
-    console.log(`backend at localhost http://localhost:${process.env.PORT}`);
+app.get("/", (req, res) => res.json({ ok: true, service: "score-api" }));
+
+async function start() {
+    try {
+        await connectDB(process.env.MONGODB_URI as string);
+        const port = Number(process.env.DB_PORT);
+    } catch (err: any) {
+        console.error("Startup error", err?.message);
+        process.exit(1);
+    }
+}
+
+app.listen(process.env.DB_PORT, async () => {
+    console.log(`backend at localhost http://localhost:${process.env.DB_PORT}`);
 });
+
+start();
