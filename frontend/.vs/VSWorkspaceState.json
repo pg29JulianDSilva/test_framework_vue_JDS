@@ -10,6 +10,6 @@
     "\\src\\views",
     "\\src\\__tests__"
   ],
-  "SelectedNode": "\\src\\stores\\counter.ts",
+  "SelectedNode": "\\src\\components\\ContactImputWidget.vue",
   "PreviewInSolutionExplorer": false
 }

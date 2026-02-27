@@ -6,6 +6,6 @@
     "\\src\\routes",
     "\\src\\scripts"
   ],
-  "SelectedNode": "\\server.ts",
+  "SelectedNode": "\\src\\scripts\\seedAndTest.ts",
   "PreviewInSolutionExplorer": false
 }

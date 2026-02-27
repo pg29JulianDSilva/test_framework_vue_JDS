@@ -5,6 +5,9 @@ import { error } from "console";
 import { connectDB } from "./db";
 import dotenv from "dotenv";
 
+import connectRouter from './src/routes/Connect';
+import loginRouter from './src/routes/Login';
+
 dotenv.config();
 
 //for the MySQL
@@ -56,6 +59,9 @@ app.get("/api/leaderboard", async (req: Request, res: Response) => {
 });
 
 app.get("/", (req, res) => res.json({ ok: true, service: "score-api" }));
+
+app.use("/connect", connectRouter);
+app.use("/login", loginRouter);
 
 async function start() {
     try {

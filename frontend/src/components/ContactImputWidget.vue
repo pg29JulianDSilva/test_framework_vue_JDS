@@ -17,6 +17,7 @@
 <script setup lang="ts">
 
     import { ref } from "vue";
+    import userdatasendStore from "../stores/currentuser";
 
     const write = ref('');
     const name = ref('');
@@ -25,6 +26,8 @@
     function sended() {
 
         //TODO connect with mongoose
+
+        userdatasendStore.onMounted(name.value, email.value, write.value)
 
         alert("Thank you, will answer you as soon as we want to!");
         write.value = '';

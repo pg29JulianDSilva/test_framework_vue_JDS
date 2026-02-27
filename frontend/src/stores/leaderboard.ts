@@ -18,7 +18,7 @@ export const leaderboardDataStore = defineStore('LB', () => {
 
     async function fetchleaderboardData() {
         try {
-            const res = await fetch("http://localhost:3000/api/leaderboard")
+            const res = await fetch("http://localhost:3363/api/leaderboard")
 
             if (!res.ok) throw new Error(`Server error ${res.status}`)
 
