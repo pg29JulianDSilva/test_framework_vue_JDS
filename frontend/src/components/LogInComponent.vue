@@ -30,7 +30,7 @@
 
     const loginupdate = userInformation();
 
-    const logout = ref(false);
+    const logout = ref(loginupdate.logged);
 
     const TitleText = ref('Log In');
     const HasAccount = ref(true);
@@ -60,6 +60,7 @@
         if (logout.value == true) {
             logout.value = !logout.value
             //alert("Error, your account is still loged in!");
+            //loginupdate.searched = user.value as string;
             loginupdate.UpdateLoginState();
         }
         
@@ -67,20 +68,33 @@
 
     function OnLogIn() {
         if (logout.value == false) {
-            //alert("Somebody is already loged in!");
-            logout.value = !logout.value
-            //loginupdate.searched = user.value as string;
-            //console.log(user.value as string);
-            loginupdate.LoginInside();
+
+            loginupdate.searched = user.value as string; 
+
+            checklogin();
         }
     }
 
     function OnRegister() {
         if (logout.value == false) {
-            alert("Somebody is already loged in!");
+            alert("Error, try in a few weeks!");
             logout.value = !logout.value
         }
     }
+
+    async function checklogin() {
+        const result = await loginupdate.LoginInside();
+        //loginupdate.LoginInside();
+        console.log(loginupdate.userLog as string);
+
+        if (loginupdate.userLog != "none") {
+            //alert("Somebody is already loged in!");
+            logout.value = !logout.value
+            user.value = "";
+        } else {
+            alert("Error, it seems we had a problem with your account!");
+        }
+    };
 
 </script>
 

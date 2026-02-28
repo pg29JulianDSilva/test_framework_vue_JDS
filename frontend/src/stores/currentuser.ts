@@ -59,9 +59,9 @@ export const userdatasendStore = defineStore('OutMessage', () => {
 export const userInformation = defineStore('UserInfo', () => {
 
     const errorMessage = ref("");
-    const userLog = ref("not-logged-in");
-    const emailLog = ref("not-logged-in");
-    const passwordLog = ref("not-logged-in");
+    const userLog = ref("none");
+    const emailLog = ref("none");
+    const passwordLog = ref("none");
     const logged = ref(false);
 
     const searched = ref("Alberto");
@@ -115,10 +115,12 @@ export const userInformation = defineStore('UserInfo', () => {
             userLog.value = actualUser.username;
             passwordLog.value = actualUser.password;
             emailLog.value = actualUser.email;
+            logged.value = true;
         } catch (err: any) {
             userLog.value = "none";
             passwordLog.value = "none";
             emailLog.value = "none";
+            logged.value = false;
             errorMessage.value = err?.message ?? "Unknown";
         }
     }
@@ -130,5 +132,5 @@ export const userInformation = defineStore('UserInfo', () => {
     }
 
 
-    return { errorMessage, userLog, passwordLog, emailLog, LoginInside, UpdateLoginState, searched }
+    return { errorMessage, userLog, passwordLog, emailLog, LoginInside, UpdateLoginState, searched, logged }
 })
