@@ -21,6 +21,7 @@
 
 <h3>Still missing</h3>
 <li>Security system for the user (right now it uses a default user, but it is just data in mongodb)</li>
+<li> fully working user system (right not it retrieves a user and password, but it uses a default user preset on mongodb) <li>
 
 <h3>How to run [DEV]</h3>
 <ol type="1">
