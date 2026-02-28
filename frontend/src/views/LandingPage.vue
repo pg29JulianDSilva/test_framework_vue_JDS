@@ -9,6 +9,8 @@
         <!--This one dosen't matter where is placed, because is supposed to be fixed-->
         <PopUpAdSpace />
 
+        <userstatuscomponent />
+
         <LeaderboardSummary />
 
         <FooterDetails />
@@ -22,6 +24,7 @@
     import LeaderboardSummary from "../components/LeaderboardSummary.vue";
     import FooterDetails from "../components/FooterDetails.vue";
     import PopUpAdSpace from "../components/PopUpAdSpace.vue";
+    import userstatuscomponent from "../components/userstatuscomponent.vue";
 </script>
 
 

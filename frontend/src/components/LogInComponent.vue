@@ -3,9 +3,9 @@
         <h2>{{ TitleText }}</h2>
         <div class="login" v-show="HasAccount">
             <h3>User</h3>
-            <input type="text" />
+            <input type="text" name="user" v-model="user" />
             <h3>Password</h3>
-            <input type="email" />
+            <input type="text" name="password" v-model="password" />
             <button class="LogginIn" @click="OnLogIn()">Log In</button>
         </div>
         <div class="register" v-show="DosentHasAccount">
@@ -26,6 +26,9 @@
 <script setup lang="ts">
 
     import { ref } from "vue";
+    import { userInformation } from "../stores/currentuser";
+
+    const loginupdate = userInformation();
 
     const logout = ref(false);
 
@@ -33,6 +36,9 @@
     const HasAccount = ref(true);
     const DosentHasAccount = ref(false);
     const ButtonText = ref('No account yet?');
+
+    const user = ref('');
+    const password = ref('');
 
     function OnChange() {
         if (HasAccount) {
@@ -48,23 +54,30 @@
             ButtonText.value = 'No account yet?'
         }
 
-        console.log(HasAccount.value);
     }
 
     function OnLogOut() {
-        if (logout) {
+        if (logout.value == true) {
             logout.value = !logout.value
+            //alert("Error, your account is still loged in!");
+            loginupdate.UpdateLoginState();
         }
+        
     }
 
     function OnLogIn() {
-        if (!LogOut) {
+        if (logout.value == false) {
+            //alert("Somebody is already loged in!");
             logout.value = !logout.value
+            //loginupdate.searched = user.value as string;
+            //console.log(user.value as string);
+            loginupdate.LoginInside();
         }
     }
 
     function OnRegister() {
-        if (!LogOut) {
+        if (logout.value == false) {
+            alert("Somebody is already loged in!");
             logout.value = !logout.value
         }
     }

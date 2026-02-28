@@ -20,6 +20,8 @@
             <ContactImputWidget />
         </div>
 
+        <userstatuscomponent />
+
         <!--new widgets-->
         <FooterDetails />
     </div>
@@ -30,6 +32,7 @@
     import { ref } from "vue";
     import FooterDetails from "../components/FooterDetails.vue";
     import ContactImputWidget from "../components/ContactImputWidget.vue";
+    import userstatuscomponent from "../components/userstatuscomponent.vue";
     
 
 </script>

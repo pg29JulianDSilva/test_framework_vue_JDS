@@ -4,15 +4,16 @@
         <p>Best game ever!</p>
         <p>VFS 2025</p>
         <!--Widegts ;)-->
-
         <!--This are the new components-->
         <FooterDetails />
     </div>
+    <userstatuscomponent />
 </template>
 
 <script setup lang="ts">
     //Import for the components
     import FooterDetails from "../components/FooterDetails.vue";
+    import userstatuscomponent from "../components/userstatuscomponent.vue";
 </script>
 
 <style scoped>

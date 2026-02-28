@@ -21,15 +21,32 @@ router.get("/:id", async (req, res) => {
     try {
         const user = await Login.findById(req.params.id);
         if (!user) return res.status(404).json({ error: "User not found, maybe you need to register" });
+
+        return res.json(user);
+
     } catch (e: any) {
         res.status(400).json({ error: e.message });
     }
 });
 
-router.get("/:id/email", async (req, res) => {
+router.get("/email/:email", async (req, res) => {
     try {
-        const user = await Login.findById(req.params.id);
+        const user = await Login.findOne({ email: req.params.email });
+
         if (!user) return res.status(404).json({ error: "User not found, maybe you need to register" });
+
+        return res.json(user);
+    } catch (e: any) {
+        res.status(400).json({ error: e.message });
+    }
+});
+
+router.get("/users/:username", async (req, res) => {
+    try {
+        const user = await Login.findOne({ username: req.params.username });
+        if (!user) return res.status(404).json({ error: "User not found, maybe you need to register" });
+
+        return res.json(user);
     } catch (e: any) {
         res.status(400).json({ error: e.message });
     }

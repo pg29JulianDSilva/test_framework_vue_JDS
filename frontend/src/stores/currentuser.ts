@@ -1,4 +1,4 @@
-import { ref, onMounted } from 'vue'
+import { ref } from 'vue'
 import { defineStore } from 'pinia'
 
 
@@ -24,7 +24,6 @@ export const userdatasendStore = defineStore('OutMessage', () => {
         const data = await res.json();
 
         if (!res.ok) {
-            //errorMessage.value = `ERRORY ${res.status}`;
             throw new Error(`ERRORY ${res.status}`);
         }
 
@@ -63,6 +62,9 @@ export const userInformation = defineStore('UserInfo', () => {
     const userLog = ref("not-logged-in");
     const emailLog = ref("not-logged-in");
     const passwordLog = ref("not-logged-in");
+    const logged = ref(false);
+
+    const searched = ref("Alberto");
 
     async function api(method: string, path: string, body?: any) {
         const url = `${BASE}${path}`;
@@ -83,7 +85,7 @@ export const userInformation = defineStore('UserInfo', () => {
         return data;
     }
 
-    async function CreateUser() {
+    /*async function CreateUser() {
         try {
             console.log(await api("GET", "/"));
 
@@ -103,26 +105,30 @@ export const userInformation = defineStore('UserInfo', () => {
         } catch (err: any) {
             errorMessage.value = err?.message ?? "Unknown";
         }
-    }
+    }*/
 
-    async function LoginInside(userName: string, passWord: string) {
+    async function LoginInside() {
         try {
-            const actualUser = await api("GET", `/login/${userName}`);
-            if (actualUser.password != passWord) { errorMessage.value = "Incorrect password" }
-            else {
-                userLog.value = actualUser.username;
-                passwordLog.value = actualUser.password;
-                emailLog.value = actualUser.email;
-            }
+
+            const actualUser = await api("GET", `/login/users/${searched.value}`);
+
+            userLog.value = actualUser.username;
+            passwordLog.value = actualUser.password;
+            emailLog.value = actualUser.email;
         } catch (err: any) {
+            userLog.value = "none";
+            passwordLog.value = "none";
+            emailLog.value = "none";
             errorMessage.value = err?.message ?? "Unknown";
         }
-
     }
 
-    onMounted(() => {
-        //LoginInside()
-    })
+    async function UpdateLoginState() {
+        userLog.value = "none";
+        passwordLog.value = "none";
+        emailLog.value = "none";
+    }
 
-    return { CreateUser, errorMessage, userLog, passwordLog, emailLog }
+
+    return { errorMessage, userLog, passwordLog, emailLog, LoginInside, UpdateLoginState, searched }
 })

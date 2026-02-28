@@ -10,6 +10,6 @@
     "\\src\\views",
     "\\src\\__tests__"
   ],
-  "SelectedNode": "\\src\\stores\\currentuser.ts",
+  "SelectedNode": "\\src\\components\\userstatuscomponent.vue",
   "PreviewInSolutionExplorer": false
 }

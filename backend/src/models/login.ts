@@ -4,7 +4,7 @@ import mongoose from "mongoose";
 const loginSchema = new mongoose.Schema(
     {
         user_id: { type: String, required: true, unique: true, trim: true }, //This are the format of the elements, similar to SQL constraits
-        uername: { type: String, required: true, trim: true, unique: true },
+        username: { type: String, required: true, trim: true, unique: true },
         password: { type: String, trim: true },
         email: { type: String, trim: true, unique: true }
     },
